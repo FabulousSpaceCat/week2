@@ -27,6 +27,9 @@ header {
 article {
     padding-bottom: 25px;
 }
+article:last-of-type {
+    padding-bottom: 0px;
+}
 footer {
     background-color:dimgray;
     color:ghostwhite;
