@@ -9,5 +9,8 @@ This is just the page from week 1 upgraded with things I learned from week 2.  T
 - [x] *OMG flexbox*
 - [x] Virtual hug for [w3schools.com](https://w3schools.com)
 - [x] ~~Actually read the instructions and made revisions to follow along better~~
-- [] Look into if I should be using margins or padding
-- [] Research responsive design
+- [x] Look into if I should be using margins or padding
+- [x] Research responsive design
+- [] Work on the same layout with grid
+- [] *OMG grid*
+- [] ~~*strangle image*~~
