@@ -11,6 +11,7 @@ This is just the page from week 1 upgraded with things I learned from week 2.  T
 - [x] ~~Actually read the instructions and made revisions to follow along better~~
 - [x] Look into if I should be using margins or padding
 - [x] Research responsive design
-- [] Work on the same layout with grid
-- [] *OMG grid*
+- [] Work on the same layout with the RWD tutorial
+- [] *OMG RWD thing*
 - [] ~~*strangle image*~~
+- [] Okay actually do grid this time
