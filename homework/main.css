@@ -1,0 +1,46 @@
+body {
+    background-color:rosybrown;
+}
+a {
+    color:bisque;
+    text-decoration:none;
+}
+a:hover {
+    color:wheat;
+}
+
+#header {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:maroon;
+}
+
+.text {
+    color:saddlebrown;
+}
+.moretext {
+    color:maroon;
+}
+.padded {
+    margin:25px 25px 25px 300px;
+    padding:25px;
+    border:1px solid bisque;
+}
+.fixed {
+    width: 500px;
+    height:300px;
+    border:1px solid rosybrown;
+}
+.fixed:hover {
+    width: 500px;
+    height:300px;
+    border:1px solid tan;
+}
+.fixed p {
+    width:80%;
+    height:80%;
+    margin:0;
+    border:1px solid rosybrown;
+}
+.fixed p:hover {
+    border:1px solid tan;
+}
