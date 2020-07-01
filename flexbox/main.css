@@ -94,6 +94,9 @@ footer {
 /* We're being mobile friendly! */
 
 @media (max-width: 768px) {
+    article > p {
+        text-indent:5%;
+    }
     #content {
         -webkit-box-orient:vertical;
         -webkit-box-direction:normal;
