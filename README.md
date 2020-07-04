@@ -13,7 +13,7 @@ This is just the page from week 1 upgraded with things I learned from week 2.  T
 - [x] Research responsive design
 - [x] Work on the same layout with the RWD tutorial
 - [x] *OMG RWD thingy but in less of a good way*
-- [] ~~*strangle image*~~
+- [ ] ~~*strangle image*~~
 - [x] Okay actually do grid this time
 - [x] *OMG grid*
 - [x] ~~Can I make~~ I can make grid responsive
