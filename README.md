@@ -17,3 +17,4 @@ This is just the page from week 1 upgraded with things I learned from week 2.  T
 - [x] Okay actually do grid this time
 - [x] *OMG grid*
 - [x] ~~Can I make~~ I can make grid responsive
+- [x] Tried out the W3.css framework.  I get it, but I still would rather do it myself.
