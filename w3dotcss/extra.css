@@ -1,0 +1,18 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1, h2 {
+    font-family: 'Henny Penny';
+}
+a {
+    text-decoration:none;
+}
+#avatar {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    -o-object-fit: cover; 
+}
+#aside { 
+    width:400px;
+}
